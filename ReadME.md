@@ -10,14 +10,10 @@ This is a calculator app that is created in C++. What it does it it asks the use
 * C++
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/)
 * [Cplusplus](https://www.cplusplus.com/forum/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I want to make it a more advanced calculator with more functions.
 * Better Looking UI.
 * Add another simple function other then calculator with it.
